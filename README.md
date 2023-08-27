@@ -29,6 +29,9 @@
 ### ⚡ Git Repo
 
 [![Readme Card](https://github.com/Rayjun0525/study)](https://github.com/Rayjun0525/study)
+[![Readme Card](https://github-readme-stats.vercel.app/https://github.com/Rayjun0525/study)](https://github.com/Rayjun0525/study)
+
+
 <!--
 ### ⚡ Fun fact about me
 
