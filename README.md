@@ -22,4 +22,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 
 ### ⚡ Fun fact about me
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayjun0525&langs_count=8)](https://github.com/Rayjun0525/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayjun0525&layout=compact)](https://github.com/Rayjun0525/github-readme-stats)
