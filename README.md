@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
+
 <div align=center>
  안녕하세요, 생각공장장 김명준의 Github 페이지를 방문해 주셔서 감사합니다.  
  저는 현재 PostgreSQL Enginner로 일하고 있습니다.  
