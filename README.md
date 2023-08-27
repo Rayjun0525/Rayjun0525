@@ -1,6 +1,6 @@
 <div align=center>
 
-### Hi there 👋
+## Hi there 👋
 
  Hello, thank you for visiting the Github page of Myoung-jun Kim, the head of the Thought Factory.  
  I am currently working as a PostgreSQL Engineer.  
