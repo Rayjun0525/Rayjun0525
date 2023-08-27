@@ -28,7 +28,7 @@
 
 ### ⚡ Git Repo
 
-[![study](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Rayjun0525/study)
+[![study](https://study.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Rayjun0525/study)
 
 <!--
 ### ⚡ Fun fact about me
