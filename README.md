@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **Rayjun0525/Rayjun0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on ...
+- Python based PostgreSQL Automation
 - 
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently & constantly learning ...
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 
 ### ⚡ Fun fact about me
