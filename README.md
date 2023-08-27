@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
- Hello, thank you for visiting the Github page of Myoung-jun Kim, the head of the Thought Factory. 
- I am currently working as a PostgreSQL Engineer.
- I firmly believe that in the near future, DBMS will undoubtedly become fully automated.
- And I aim to be at the forefront of pioneering that future.
- I have much to learn, but I am committed to putting in a lot of effort and time.
+ Hello, thank you for visiting the Github page of Myoung-jun Kim, the head of the Thought Factory.  
+ I am currently working as a PostgreSQL Engineer.  
+ I firmly believe that in the near future, DBMS will undoubtedly become fully automated.  
+ And I aim to be at the forefront of pioneering that future.  
+ I have much to learn, but I am committed to putting in a lot of effort and time.  
  Thank you for your support!  
  
  안녕하세요, 생각공장장 김명준의 Github 페이지를 방문해 주셔서 감사합니다.  
