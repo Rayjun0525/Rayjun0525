@@ -1,5 +1,5 @@
+<div align=center>
 ### Hi there 👋
-![header](https://Rayjun0525.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **Rayjun0525/Rayjun0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayjun0525&layout=compact)](https://github.com/Rayjun0525/github-readme-stats)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayjun0525&show_icons=true&theme=radical)
+
+
+</div>
