@@ -7,8 +7,8 @@
  I firmly believe that in the near future, DBMS will undoubtedly become fully automated.
  And I aim to be at the forefront of pioneering that future.
  I have much to learn, but I am committed to putting in a lot of effort and time.
- Thank you for your support!
-
+ Thank you for your support!  
+ 
  안녕하세요, 생각공장장 김명준의 Github 페이지를 방문해 주셔서 감사합니다.  
  저는 현재 PostgreSQL Enginner로 일하고 있습니다.  
  가까운 미래에 분명 DBMS는 전자동화가 될것 이라고 믿고 있습니다.  
