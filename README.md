@@ -10,7 +10,7 @@
  Thank you for your support!  
  
  안녕하세요, 생각공장장 김명준의 Github 페이지를 방문해 주셔서 감사합니다.  
- 저는 현재 PostgreSQL Enginner로 일하고 있습니다.  
+ 저는 현재 PostgreSQL Engineer로 일하고 있습니다.  
  가까운 미래에 분명 DBMS는 전자동화가 될 것 이라고 믿고 있습니다.  
  그리고 저는 그 미래를 여는데 앞장서고자 합니다.  
  많이 부족하지만, 많은 노력과 많은 시간을 들이고자 합니다.  
