@@ -26,7 +26,7 @@
 
 ### 🔎 I'm familiar with ...
 
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab=white"/>
 
 ### ⚡ Git Repo
 
