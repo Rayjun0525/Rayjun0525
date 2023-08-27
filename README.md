@@ -27,7 +27,8 @@
 ### ⚡ Git Repo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayjun0525&repo=study)](https://github.com/Rayjun0525/study)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayjun0525&repo=pgrm)](https://github.com/Rayjun0525/pgrm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rayjun0525&repo=pgrm)](https://github.com/Rayjun0525/pgrm)  
+
 
 <!--
 ### ⚡ Fun fact about me
