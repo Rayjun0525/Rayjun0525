@@ -28,6 +28,9 @@
 
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab=white"/>
 
+### 🌱 Writing ...
+[PostgreSQL을 여행하는 입문자를 위한 안내서](https://wikidocs.net/book/8814)
+
 <!--
 ### ⚡ Git Repo
 
