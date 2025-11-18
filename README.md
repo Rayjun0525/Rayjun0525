@@ -1,3 +1,3 @@
 # Myoungjun Kim
-- EenterpriseDB / Professional Service
+- EnterpriseDB / Professional Service
 - PostgreSQL Engineer
